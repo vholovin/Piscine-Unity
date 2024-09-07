@@ -1,0 +1,2802 @@
+fileFormatVersion: 2
+guid: 8f8fee7e12a544be8a2504b2a1326da7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Angle Island Zone_0
+  - first:
+      213: 21300002
+    second: Angle Island Zone_1
+  - first:
+      213: 21300004
+    second: Angle Island Zone_2
+  - first:
+      213: 21300006
+    second: Angle Island Zone_3
+  - first:
+      213: 21300008
+    second: Angle Island Zone_4
+  - first:
+      213: 21300010
+    second: Angle Island Zone_5
+  - first:
+      213: 21300012
+    second: Angle Island Zone_6
+  - first:
+      213: 21300014
+    second: Angle Island Zone_7
+  - first:
+      213: 21300016
+    second: Angle Island Zone_8
+  - first:
+      213: 21300018
+    second: Angle Island Zone_9
+  - first:
+      213: 21300020
+    second: Angle Island Zone_10
+  - first:
+      213: 21300022
+    second: Angle Island Zone_11
+  - first:
+      213: 21300024
+    second: Angle Island Zone_12
+  - first:
+      213: 21300026
+    second: Angle Island Zone_13
+  - first:
+      213: 21300028
+    second: Angle Island Zone_14
+  - first:
+      213: 21300030
+    second: Angle Island Zone_15
+  - first:
+      213: 21300032
+    second: Angle Island Zone_16
+  - first:
+      213: 21300034
+    second: Angle Island Zone_17
+  - first:
+      213: 21300036
+    second: Angle Island Zone_18
+  - first:
+      213: 21300038
+    second: Angle Island Zone_19
+  - first:
+      213: 21300040
+    second: Angle Island Zone_20
+  - first:
+      213: 21300042
+    second: Angle Island Zone_21
+  - first:
+      213: 21300044
+    second: Angle Island Zone_22
+  - first:
+      213: 21300046
+    second: Angle Island Zone_23
+  - first:
+      213: 21300048
+    second: Angle Island Zone_24
+  - first:
+      213: 21300050
+    second: Angle Island Zone_25
+  - first:
+      213: 21300052
+    second: Angle Island Zone_26
+  - first:
+      213: 21300054
+    second: Angle Island Zone_27
+  - first:
+      213: 21300056
+    second: Angle Island Zone_28
+  - first:
+      213: 21300058
+    second: Angle Island Zone_29
+  - first:
+      213: 21300060
+    second: Angle Island Zone_30
+  - first:
+      213: 21300062
+    second: Angle Island Zone_31
+  - first:
+      213: 21300064
+    second: Angle Island Zone_32
+  - first:
+      213: 21300066
+    second: Angle Island Zone_33
+  - first:
+      213: 21300068
+    second: Angle Island Zone_34
+  - first:
+      213: 21300070
+    second: Angle Island Zone_35
+  - first:
+      213: 21300072
+    second: Angle Island Zone_36
+  - first:
+      213: 21300074
+    second: Angle Island Zone_37
+  - first:
+      213: 21300076
+    second: Angle Island Zone_38
+  - first:
+      213: 21300078
+    second: Angle Island Zone_39
+  - first:
+      213: 21300080
+    second: Angle Island Zone_40
+  - first:
+      213: 21300082
+    second: Angle Island Zone_41
+  - first:
+      213: 21300084
+    second: Angle Island Zone_42
+  - first:
+      213: 21300086
+    second: Angle Island Zone_43
+  - first:
+      213: 21300088
+    second: Angle Island Zone_44
+  - first:
+      213: 21300090
+    second: Angle Island Zone_45
+  - first:
+      213: 21300092
+    second: Angle Island Zone_46
+  - first:
+      213: 21300094
+    second: Angle Island Zone_47
+  - first:
+      213: 21300096
+    second: Angle Island Zone_48
+  - first:
+      213: 21300098
+    second: Angle Island Zone_49
+  - first:
+      213: 21300100
+    second: Angle Island Zone_50
+  - first:
+      213: 21300102
+    second: Angle Island Zone_51
+  - first:
+      213: 21300104
+    second: Angle Island Zone_52
+  - first:
+      213: 21300106
+    second: Angle Island Zone_53
+  - first:
+      213: 21300108
+    second: Angle Island Zone_54
+  - first:
+      213: 21300110
+    second: Angle Island Zone_55
+  - first:
+      213: 21300112
+    second: Angle Island Zone_56
+  - first:
+      213: 21300114
+    second: Angle Island Zone_57
+  - first:
+      213: 21300116
+    second: Angle Island Zone_58
+  - first:
+      213: 21300118
+    second: Angle Island Zone_59
+  - first:
+      213: 21300120
+    second: Angle Island Zone_60
+  - first:
+      213: 21300122
+    second: Angle Island Zone_61
+  - first:
+      213: 21300124
+    second: Angle Island Zone_62
+  - first:
+      213: 21300126
+    second: Angle Island Zone_63
+  - first:
+      213: 21300128
+    second: Angle Island Zone_64
+  - first:
+      213: 21300130
+    second: Angle Island Zone_65
+  - first:
+      213: 21300132
+    second: Angle Island Zone_66
+  - first:
+      213: 21300134
+    second: Angle Island Zone_67
+  - first:
+      213: 21300136
+    second: Angle Island Zone_68
+  - first:
+      213: 21300138
+    second: Angle Island Zone_69
+  - first:
+      213: 21300140
+    second: Angle Island Zone_70
+  - first:
+      213: 21300142
+    second: Angle Island Zone_71
+  - first:
+      213: 21300144
+    second: Angle Island Zone_72
+  - first:
+      213: 21300146
+    second: Angle Island Zone_73
+  - first:
+      213: 21300148
+    second: Angle Island Zone_74
+  - first:
+      213: 21300150
+    second: Angle Island Zone_75
+  - first:
+      213: 21300152
+    second: Angle Island Zone_76
+  - first:
+      213: 21300154
+    second: Angle Island Zone_77
+  - first:
+      213: 21300156
+    second: Angle Island Zone_78
+  - first:
+      213: 21300158
+    second: Angle Island Zone_79
+  - first:
+      213: 21300160
+    second: Angle Island Zone_80
+  - first:
+      213: 21300162
+    second: Angle Island Zone_81
+  - first:
+      213: 21300164
+    second: Angle Island Zone_82
+  - first:
+      213: 21300166
+    second: Angle Island Zone_83
+  - first:
+      213: 21300168
+    second: Angle Island Zone_84
+  - first:
+      213: 21300170
+    second: Angle Island Zone_85
+  - first:
+      213: 21300172
+    second: Angle Island Zone_86
+  - first:
+      213: 21300174
+    second: Angle Island Zone_87
+  - first:
+      213: 21300176
+    second: Angle Island Zone_88
+  - first:
+      213: 21300178
+    second: Angle Island Zone_89
+  - first:
+      213: 21300180
+    second: Angle Island Zone_90
+  - first:
+      213: 21300182
+    second: Angle Island Zone_91
+  - first:
+      213: 21300184
+    second: Angle Island Zone_92
+  - first:
+      213: 21300186
+    second: Angle Island Zone_93
+  - first:
+      213: 21300188
+    second: Angle Island Zone_94
+  - first:
+      213: 21300190
+    second: Angle Island Zone_95
+  - first:
+      213: 21300192
+    second: Angle Island Zone_96
+  - first:
+      213: 21300194
+    second: Angle Island Zone_97
+  - first:
+      213: 21300196
+    second: Angle Island Zone_98
+  - first:
+      213: 21300198
+    second: Angle Island Zone_99
+  - first:
+      213: 21300200
+    second: Angle Island Zone_100
+  - first:
+      213: 21300202
+    second: Angle Island Zone_101
+  - first:
+      213: 21300204
+    second: Angle Island Zone_102
+  - first:
+      213: 21300206
+    second: Angle Island Zone_103
+  - first:
+      213: 21300208
+    second: Angle Island Zone_104
+  - first:
+      213: 21300210
+    second: Angle Island Zone_105
+  - first:
+      213: 21300212
+    second: Angle Island Zone_106
+  - first:
+      213: 21300214
+    second: Angle Island Zone_107
+  - first:
+      213: 21300216
+    second: Angle Island Zone_108
+  - first:
+      213: 21300218
+    second: Angle Island Zone_109
+  - first:
+      213: 21300220
+    second: Angle Island Zone_110
+  - first:
+      213: 21300222
+    second: Angle Island Zone_111
+  - first:
+      213: 21300224
+    second: Angle Island Zone_112
+  - first:
+      213: 21300226
+    second: Angle Island Zone_113
+  - first:
+      213: 21300228
+    second: Angle Island Zone_114
+  - first:
+      213: 21300230
+    second: Angle Island Zone_115
+  - first:
+      213: 21300232
+    second: Angle Island Zone_116
+  - first:
+      213: 21300234
+    second: Angle Island Zone_117
+  - first:
+      213: 21300236
+    second: Angle Island Zone_118
+  - first:
+      213: 21300238
+    second: Angle Island Zone_119
+  - first:
+      213: 21300240
+    second: Angle Island Zone_120
+  - first:
+      213: 21300242
+    second: Angle Island Zone_121
+  - first:
+      213: 21300244
+    second: Angle Island Zone_122
+  - first:
+      213: 21300246
+    second: Angle Island Zone_123
+  - first:
+      213: 21300248
+    second: Angle Island Zone_124
+  - first:
+      213: 21300250
+    second: Angle Island Zone_125
+  - first:
+      213: 21300252
+    second: Angle Island Zone_126
+  - first:
+      213: 21300254
+    second: Angle Island Zone_127
+  - first:
+      213: 21300256
+    second: Angle Island Zone_128
+  - first:
+      213: 21300258
+    second: Angle Island Zone_129
+  - first:
+      213: 21300260
+    second: Angle Island Zone_130
+  - first:
+      213: 21300262
+    second: Angle Island Zone_131
+  - first:
+      213: 21300264
+    second: Angle Island Zone_132
+  - first:
+      213: 21300266
+    second: Angle Island Zone_133
+  - first:
+      213: 21300268
+    second: Angle Island Zone_134
+  - first:
+      213: 21300270
+    second: Angle Island Zone_135
+  - first:
+      213: 21300272
+    second: Angle Island Zone_136
+  - first:
+      213: 21300274
+    second: Angle Island Zone_137
+  - first:
+      213: 21300276
+    second: Angle Island Zone_138
+  - first:
+      213: 21300278
+    second: Angle Island Zone_139
+  - first:
+      213: 21300280
+    second: Angle Island Zone_140
+  - first:
+      213: 21300282
+    second: Angle Island Zone_141
+  - first:
+      213: 21300284
+    second: Angle Island Zone_142
+  - first:
+      213: 21300286
+    second: Angle Island Zone_143
+  - first:
+      213: 21300288
+    second: Angle Island Zone_144
+  - first:
+      213: 21300290
+    second: Angle Island Zone_145
+  - first:
+      213: 21300292
+    second: Angle Island Zone_146
+  - first:
+      213: 21300294
+    second: Angle Island Zone_147
+  - first:
+      213: 21300296
+    second: Angle Island Zone_148
+  - first:
+      213: 21300298
+    second: Angle Island Zone_149
+  - first:
+      213: 21300300
+    second: Angle Island Zone_150
+  - first:
+      213: 21300302
+    second: Angle Island Zone_151
+  - first:
+      213: 21300304
+    second: Angle Island Zone_152
+  - first:
+      213: 21300306
+    second: Angle Island Zone_153
+  - first:
+      213: 21300308
+    second: Angle Island Zone_154
+  - first:
+      213: 21300310
+    second: Angle Island Zone_155
+  - first:
+      213: 21300312
+    second: Angle Island Zone_156
+  - first:
+      213: 21300314
+    second: Angle Island Zone_157
+  - first:
+      213: 21300316
+    second: Angle Island Zone_158
+  - first:
+      213: 21300318
+    second: Angle Island Zone_159
+  - first:
+      213: 21300320
+    second: Angle Island Zone_160
+  - first:
+      213: 21300322
+    second: Angle Island Zone_161
+  - first:
+      213: 21300324
+    second: Angle Island Zone_162
+  - first:
+      213: 21300326
+    second: Angle Island Zone_163
+  - first:
+      213: 21300328
+    second: Angle Island Zone_164
+  - first:
+      213: 21300330
+    second: Angle Island Zone_165
+  - first:
+      213: 21300332
+    second: Angle Island Zone_166
+  - first:
+      213: 21300334
+    second: Angle Island Zone_167
+  - first:
+      213: 21300336
+    second: Angle Island Zone_168
+  - first:
+      213: 21300338
+    second: Angle Island Zone_169
+  - first:
+      213: 21300340
+    second: Angle Island Zone_170
+  - first:
+      213: 21300342
+    second: Angle Island Zone_171
+  - first:
+      213: 21300344
+    second: Angle Island Zone_172
+  - first:
+      213: 21300346
+    second: Angle Island Zone_173
+  - first:
+      213: 21300348
+    second: Angle Island Zone_174
+  - first:
+      213: 21300350
+    second: Angle Island Zone_175
+  - first:
+      213: 21300352
+    second: Angle Island Zone_176
+  - first:
+      213: 21300354
+    second: Angle Island Zone_177
+  - first:
+      213: 21300356
+    second: Angle Island Zone_178
+  - first:
+      213: 21300358
+    second: Angle Island Zone_179
+  - first:
+      213: 21300360
+    second: Angle Island Zone_180
+  - first:
+      213: 21300362
+    second: Angle Island Zone_181
+  - first:
+      213: 21300364
+    second: Angle Island Zone_182
+  - first:
+      213: 21300366
+    second: Angle Island Zone_183
+  - first:
+      213: 21300368
+    second: Angle Island Zone_184
+  - first:
+      213: 21300370
+    second: Angle Island Zone_185
+  - first:
+      213: 21300372
+    second: Angle Island Zone_186
+  - first:
+      213: 21300374
+    second: Angle Island Zone_187
+  - first:
+      213: 21300376
+    second: Angle Island Zone_188
+  - first:
+      213: 21300378
+    second: Angle Island Zone_189
+  - first:
+      213: 21300380
+    second: Angle Island Zone_190
+  - first:
+      213: 21300382
+    second: Angle Island Zone_191
+  - first:
+      213: 21300384
+    second: Angle Island Zone_192
+  - first:
+      213: 21300386
+    second: Angle Island Zone_193
+  - first:
+      213: 21300388
+    second: Angle Island Zone_194
+  - first:
+      213: 21300390
+    second: Angle Island Zone_195
+  - first:
+      213: 21300392
+    second: Angle Island Zone_196
+  - first:
+      213: 21300394
+    second: Angle Island Zone_197
+  - first:
+      213: 21300396
+    second: Angle Island Zone_198
+  - first:
+      213: 21300398
+    second: Angle Island Zone_199
+  - first:
+      213: 21300400
+    second: Angle Island Zone_200
+  - first:
+      213: 21300402
+    second: Angle Island Zone_201
+  - first:
+      213: 21300404
+    second: Angle Island Zone_202
+  - first:
+      213: 21300406
+    second: Angle Island Zone_203
+  - first:
+      213: 21300408
+    second: Angle Island Zone_204
+  - first:
+      213: 21300410
+    second: Angle Island Zone_205
+  - first:
+      213: 21300412
+    second: Angle Island Zone_206
+  - first:
+      213: 21300414
+    second: Angle Island Zone_207
+  - first:
+      213: 21300416
+    second: Angle Island Zone_208
+  - first:
+      213: 21300418
+    second: Angle Island Zone_209
+  - first:
+      213: 21300420
+    second: Angle Island Zone_210
+  - first:
+      213: 21300422
+    second: Angle Island Zone_211
+  - first:
+      213: 21300424
+    second: Angle Island Zone_212
+  - first:
+      213: 21300426
+    second: Angle Island Zone_213
+  - first:
+      213: 21300428
+    second: Angle Island Zone_214
+  - first:
+      213: 21300430
+    second: Angle Island Zone_215
+  - first:
+      213: 21300432
+    second: Angle Island Zone_216
+  - first:
+      213: 21300434
+    second: Angle Island Zone_217
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Angle Island Zone_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1871
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1900
+        width: 79
+        height: 55
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_6
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1900
+        width: 128
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_7
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1900
+        width: 79
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_9
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1816
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1742
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1744
+        width: 60
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1780
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_17
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1687
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_18
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1780
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1613
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1631
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1677
+        width: 128
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1677
+        width: 96
+        height: 55
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1633
+        width: 67
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_27
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1520
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_28
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1538
+        width: 128
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1484
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_34
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1491
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_40
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1355
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_41
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1420
+        width: 96
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_43
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_44
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_46
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1226
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_47
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1353
+        width: 96
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_48
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1226
+        width: 67
+        height: 87
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_49
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1226
+        width: 128
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1097
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1097
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1097
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1001
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 968
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 839
+        width: 127
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 711
+        width: 128
+        height: 127
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 711
+        width: 128
+        height: 127
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 579
+        width: 127
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_80
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 579
+        width: 128
+        height: 128
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 615
+        width: 128
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 615
+        width: 128
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_83
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 619
+        width: 128
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_84
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 619
+        width: 128
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 466
+        width: 127
+        height: 112
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_86
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 450
+        width: 128
+        height: 128
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_87
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 466
+        width: 128
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_88
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 486
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_89
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 486
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_92
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 337
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_93
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 466
+        width: 57
+        height: 16
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_94
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 361
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_95
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 361
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 451
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_97
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 451
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 128
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 128
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 337
+        width: 128
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 337
+        width: 128
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 260
+        width: 128
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_110
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 232
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_111
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 232
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_119
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 219
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_123
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 179
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_140
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 62
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_150
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 191
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 143
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_215
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405410000000000800000000000000
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_216
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 128
+        height: 128
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d405410000000000800000000000000
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_217
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 106
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d405410000000000800000000000000
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_104
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 260
+        width: 127
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_8
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1742
+        width: 69
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 875
+        width: 127
+        height: 92
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_22
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 875
+        width: 127
+        height: 91
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Angle Island Zone_23
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Angle Island Zone_88: 21300176
+      Angle Island Zone_51: 21300102
+      Angle Island Zone_27: 21300054
+      Angle Island Zone_86: 21300172
+      Angle Island Zone_140: 21300280
+      Angle Island Zone_1: 21300002
+      Angle Island Zone_82: 21300164
+      Angle Island Zone_83: 21300166
+      Angle Island Zone_20: 21300040
+      Angle Island Zone_95: 21300190
+      Angle Island Zone_35: 21300070
+      Angle Island Zone_18: 21300036
+      Angle Island Zone_84: 21300168
+      Angle Island Zone_7: 21300014
+      Angle Island Zone_32: 21300064
+      Angle Island Zone_58: 21300116
+      Angle Island Zone_47: 21300094
+      Angle Island Zone_49: 21300098
+      Angle Island Zone_81: 21300162
+      Angle Island Zone_24: 21300048
+      Angle Island Zone_50: 21300100
+      Angle Island Zone_31: 21300062
+      Angle Island Zone_22: 21300044
+      Angle Island Zone_103: 21300206
+      Angle Island Zone_215: 21300430
+      Angle Island Zone_17: 21300034
+      Angle Island Zone_45: 21300090
+      Angle Island Zone_97: 21300194
+      Angle Island Zone_46: 21300092
+      Angle Island Zone_33: 21300066
+      Angle Island Zone_99: 21300198
+      Angle Island Zone_10: 21300020
+      Angle Island Zone_85: 21300170
+      Angle Island Zone_26: 21300052
+      Angle Island Zone_23: 21300046
+      Angle Island Zone_15: 21300030
+      Angle Island Zone_96: 21300192
+      Angle Island Zone_216: 21300432
+      Angle Island Zone_156: 21300312
+      Angle Island Zone_42: 21300084
+      Angle Island Zone_14: 21300028
+      Angle Island Zone_44: 21300088
+      Angle Island Zone_119: 21300238
+      Angle Island Zone_36: 21300072
+      Angle Island Zone_29: 21300058
+      Angle Island Zone_150: 21300300
+      Angle Island Zone_28: 21300056
+      Angle Island Zone_2: 21300004
+      Angle Island Zone_100: 21300200
+      Angle Island Zone_64: 21300128
+      Angle Island Zone_40: 21300080
+      Angle Island Zone_89: 21300178
+      Angle Island Zone_39: 21300078
+      Angle Island Zone_94: 21300188
+      Angle Island Zone_123: 21300246
+      Angle Island Zone_98: 21300196
+      Angle Island Zone_41: 21300082
+      Angle Island Zone_4: 21300008
+      Angle Island Zone_48: 21300096
+      Angle Island Zone_118: 21300236
+      Angle Island Zone_19: 21300038
+      Angle Island Zone_25: 21300050
+      Angle Island Zone_9: 21300018
+      Angle Island Zone_0: 21300000
+      Angle Island Zone_104: 21300208
+      Angle Island Zone_101: 21300202
+      Angle Island Zone_80: 21300160
+      Angle Island Zone_92: 21300184
+      Angle Island Zone_6: 21300012
+      Angle Island Zone_16: 21300032
+      Angle Island Zone_217: 21300434
+      Angle Island Zone_8: 21300016
+      Angle Island Zone_13: 21300026
+      Angle Island Zone_73: 21300146
+      Angle Island Zone_79: 21300158
+      Angle Island Zone_57: 21300114
+      Angle Island Zone_37: 21300074
+      Angle Island Zone_43: 21300086
+      Angle Island Zone_3: 21300006
+      Angle Island Zone_87: 21300174
+      Angle Island Zone_34: 21300068
+      Angle Island Zone_111: 21300222
+      Angle Island Zone_74: 21300148
+      Angle Island Zone_30: 21300060
+      Angle Island Zone_38: 21300076
+      Angle Island Zone_93: 21300186
+      Angle Island Zone_21: 21300042
+      Angle Island Zone_110: 21300220
+      Angle Island Zone_11: 21300022
+      Angle Island Zone_52: 21300104
+      Angle Island Zone_5: 21300010
+      Angle Island Zone_12: 21300024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
