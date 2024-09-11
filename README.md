@@ -47,3 +47,11 @@ Staging, Shaders, Lights, 3D sounds
 Navmesh, 3D Physics, 3D GUI
 <img align="center" src="Screenshots/d07_0.png" width="100%" />
 <img align="center" src="Screenshots/d07_1.png" width="100%" />
+
+# D08
+Animations
+<img align="center" src="Screenshots/d08_0.png" width="100%" />
+
+# D09
+First Person Shooter
+<img align="center" src="Screenshots/d09_0.png" width="100%" />
