@@ -55,3 +55,8 @@ Animations
 # D09
 First Person Shooter
 <img align="center" src="Screenshots/d09_0.png" width="100%" />
+
+# RUSH01
+Hack and Slash
+<img align="center" src="Screenshots/rush01_0.png" width="100%" />
+<img align="center" src="Screenshots/rush01_1.png" width="100%" />
