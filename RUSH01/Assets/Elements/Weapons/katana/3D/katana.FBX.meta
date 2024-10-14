@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: d5a9374bbad756d4c85d6c0740d3ae0c
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: blade
+  - first:
+      1: 100002
+    second: blade base
+  - first:
+      1: 100004
+    second: Camera01
+  - first:
+      1: 100006
+    second: Camera01.Target
+  - first:
+      1: 100008
+    second: handgrip1
+  - first:
+      1: 100010
+    second: handgrip2
+  - first:
+      1: 100012
+    second: //RootNode
+  - first:
+      1: 100014
+    second: tsuba
+  - first:
+      4: 400000
+    second: blade
+  - first:
+      4: 400002
+    second: blade base
+  - first:
+      4: 400004
+    second: Camera01
+  - first:
+      4: 400006
+    second: Camera01.Target
+  - first:
+      4: 400008
+    second: handgrip1
+  - first:
+      4: 400010
+    second: handgrip2
+  - first:
+      4: 400012
+    second: //RootNode
+  - first:
+      4: 400014
+    second: tsuba
+  - first:
+      20: 2000000
+    second: Camera01
+  - first:
+      21: 2100000
+    second: Metal_Dark_Gold
+  - first:
+      21: 2100002
+    second: Metal_Chrome
+  - first:
+      21: 2100004
+    second: handgrip
+  - first:
+      23: 2300000
+    second: blade
+  - first:
+      23: 2300002
+    second: blade base
+  - first:
+      23: 2300004
+    second: handgrip1
+  - first:
+      23: 2300006
+    second: handgrip2
+  - first:
+      23: 2300008
+    second: tsuba
+  - first:
+      33: 3300000
+    second: blade
+  - first:
+      33: 3300002
+    second: blade base
+  - first:
+      33: 3300004
+    second: handgrip1
+  - first:
+      33: 3300006
+    second: handgrip2
+  - first:
+      33: 3300008
+    second: tsuba
+  - first:
+      43: 4300000
+    second: tsuba
+  - first:
+      43: 4300002
+    second: blade
+  - first:
+      43: 4300004
+    second: blade base
+  - first:
+      43: 4300006
+    second: handgrip1
+  - first:
+      43: 4300008
+    second: handgrip2
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      1183024399: 6000828045688606266
+    second: Camera01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Chrome
+    second: {fileID: 2100000, guid: 661b0cf263cb847c38403ee64210aa36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Dark_Gold
+    second: {fileID: 2100000, guid: 9af9e6a3e94424e04b349618e5309c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: handgrip
+    second: {fileID: 2100000, guid: b2dd80eb0a6b14e06a273ae4c54de609, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.25
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.25
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

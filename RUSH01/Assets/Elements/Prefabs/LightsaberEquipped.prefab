@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4036000436560194946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1043420239592548237}
+  - component: {fileID: 1542472487341992911}
+  m_Layer: 0
+  m_Name: LightsaberEquipped
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1043420239592548237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4036000436560194946}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000033527606, y: 1, z: -0.000000014901158, w: -0.00000005960463}
+  m_LocalPosition: {x: -0.00034, y: 0.00101, z: -0.00247}
+  m_LocalScale: {x: 0.01999998, y: 0.020000063, z: 0.01999997}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8401300983120159566}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &1542472487341992911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4036000436560194946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbedf081cafe64412b3f3f4358b76591, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Type: Weapon
+  AttackSpped: 1
+  Multiplier: 15
+  Icon: {fileID: 21300000, guid: 8b95e500b5dd64a8cac676eff56f357d, type: 3}
+  Model: {fileID: 7326240289705259289, guid: 7b54cdc6a5fd3463489642680c2000be, type: 3}
+  PickingPosition: {x: -0.00034, y: 0.00101, z: -0.00247}
+  PickingRotation: {x: 0, y: 180, z: 0}
+  PickingScale: {x: 0.01999998, y: 0.02000006, z: 0.01999997}
+  Descrption: Lightsaber
+--- !u!1001 &7030774059084382254
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1043420239592548237}
+    m_Modifications:
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557201625649637743, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_Name
+      value: Lightsaber
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc26d9f64787e3c46a4f5429dcb56afb, type: 3}
+--- !u!4 &8401300983120159566 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+    type: 3}
+  m_PrefabInstance: {fileID: 7030774059084382254}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7326240289705259289
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6040506415194929942}
+  - component: {fileID: 7326240289705259288}
+  - component: {fileID: 7326240289705259291}
+  m_Layer: 0
+  m_Name: LightsaberLying
+  m_TagString: Item
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6040506415194929942
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326240289705259289}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.71792066, y: -0.64817077, z: 0.08566492, w: 0.23901057}
+  m_LocalPosition: {x: 0.0067, y: -0.0004375091, z: 0.0579}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7981760683565583804}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!114 &7326240289705259288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326240289705259289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbedf081cafe64412b3f3f4358b76591, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Type: Weapon
+  AttackSpped: 1
+  Multiplier: 15
+  Icon: {fileID: 21300000, guid: 8b95e500b5dd64a8cac676eff56f357d, type: 3}
+  Model: {fileID: 4036000436560194946, guid: 5d77061aabfee4ca2bb9a203ad5c5e9e, type: 3}
+  PickingPosition: {x: -0.00034, y: 0.00101, z: -0.00247}
+  PickingRotation: {x: 0, y: 180, z: 0}
+  PickingScale: {x: 0.01999998, y: 0.02000006, z: 0.01999997}
+  Descrption: Lightsaber
+--- !u!65 &7326240289705259291
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7326240289705259289}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.083971314, y: 0.064039074, z: 1.0071634}
+  m_Center: {x: 0.005093872, y: 0.0049280347, z: 0.30803436}
+--- !u!1001 &8917637949170839260
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6040506415194929942}
+    m_Modifications:
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2557201625649637743, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+        type: 3}
+      propertyPath: m_Name
+      value: Lightsaber
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fc26d9f64787e3c46a4f5429dcb56afb, type: 3}
+--- !u!4 &7981760683565583804 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1514680049616675680, guid: fc26d9f64787e3c46a4f5429dcb56afb,
+    type: 3}
+  m_PrefabInstance: {fileID: 8917637949170839260}
+  m_PrefabAsset: {fileID: 0}
